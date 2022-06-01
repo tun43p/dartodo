@@ -6,9 +6,14 @@ A command-line todo application.
 
 - [Dartodo](#dartodo)
   - [Table of contents](#table-of-contents)
+  - [About this project](#about-this-project)
   - [Versioning](#versioning)
   - [Authors](#authors)
   - [License](#license)
+
+## About this project
+
+This application was created to test creation of command-line tools with Dart.
 
 ## Versioning
 
